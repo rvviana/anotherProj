@@ -16,6 +16,8 @@ type
     edt2: TEdit;
     edt3: TEdit;
     lbl1: TLabel;
+    mmo1: TMemo;
+    rb1: TRadioButton;
     procedure btn1Click(Sender: TObject);
   private
     { Private declarations }

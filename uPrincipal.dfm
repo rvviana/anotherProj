@@ -81,4 +81,21 @@ object Form1: TForm1
     TabOrder = 6
     Text = 'edt3'
   end
+  object mmo1: TMemo
+    Left = 520
+    Top = 96
+    Width = 185
+    Height = 89
+    Lines.Strings = (
+      'mmo1')
+    TabOrder = 7
+  end
+  object rb1: TRadioButton
+    Left = 512
+    Top = 200
+    Width = 113
+    Height = 17
+    Caption = 'rb1'
+    TabOrder = 8
+  end
 end
