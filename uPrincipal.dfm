@@ -32,4 +32,20 @@ object Form1: TForm1
     TabOrder = 1
     OnClick = btn1Click
   end
+  object lst1: TListBox
+    Left = 32
+    Top = 56
+    Width = 121
+    Height = 97
+    ItemHeight = 13
+    TabOrder = 2
+  end
+  object chk1: TCheckBox
+    Left = 208
+    Top = 152
+    Width = 97
+    Height = 17
+    Caption = 'chk1'
+    TabOrder = 3
+  end
 end
