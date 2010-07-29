@@ -2,8 +2,8 @@ object Form1: TForm1
   Left = 0
   Top = 0
   Caption = 'Form1'
-  ClientHeight = 245
-  ClientWidth = 472
+  ClientHeight = 434
+  ClientWidth = 888
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -13,6 +13,15 @@ object Form1: TForm1
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
+  object lbl1: TLabel
+    Left = 312
+    Top = 280
+    Width = 480
+    Height = 13
+    Caption = 
+      'TEEEEEEEEEEEEEEEESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSTTTTTTTTTTTTTT' +
+      'TTEEEEEEEEEEEEEE'
+  end
   object lbledt1: TLabeledEdit
     Left = 248
     Top = 40

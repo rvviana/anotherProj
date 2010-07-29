@@ -15,6 +15,7 @@ type
     edt1: TEdit;
     edt2: TEdit;
     edt3: TEdit;
+    lbl1: TLabel;
     procedure btn1Click(Sender: TObject);
   private
     { Private declarations }
