@@ -10,8 +10,11 @@ type
   TForm1 = class(TForm)
     lbledt1: TLabeledEdit;
     btn1: TButton;
-    lst1: TListBox;
     chk1: TCheckBox;
+    lst1: TListBox;
+    edt1: TEdit;
+    edt2: TEdit;
+    edt3: TEdit;
     procedure btn1Click(Sender: TObject);
   private
     { Private declarations }
