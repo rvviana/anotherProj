@@ -98,4 +98,13 @@ object Form1: TForm1
     Caption = 'rb1'
     TabOrder = 8
   end
+  object cbb1: TComboBox
+    Left = 712
+    Top = 208
+    Width = 145
+    Height = 21
+    ItemHeight = 13
+    TabOrder = 9
+    Text = 'cbb1'
+  end
 end
