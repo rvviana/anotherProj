@@ -35,6 +35,7 @@ implementation
 procedure TForm1.btn1Click(Sender: TObject);
 begin
   ShowMessage(lbledt1.Text + ' outro projeto de teste');
+  //adçlkfjaçlkdfjalkjsf
 end;
 
 end.
