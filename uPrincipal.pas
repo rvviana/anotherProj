@@ -4,7 +4,7 @@ interface
 
 uses
   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
-  Dialogs, StdCtrls, ExtCtrls;
+  Dialogs, StdCtrls, ExtCtrls, Menus;
 
 type
   TForm1 = class(TForm)
@@ -16,6 +16,7 @@ type
     edt2: TEdit;
     edt3: TEdit;
     mmo1: TMemo;
+    mm1: TMainMenu;
     procedure btn1Click(Sender: TObject);
   private
     { Private declarations }
