@@ -15,10 +15,7 @@ type
     edt1: TEdit;
     edt2: TEdit;
     edt3: TEdit;
-    lbl1: TLabel;
     mmo1: TMemo;
-    rb1: TRadioButton;
-    cbb1: TComboBox;
     procedure btn1Click(Sender: TObject);
   private
     { Private declarations }

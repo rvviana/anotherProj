@@ -20,13 +20,5 @@ object Form2: TForm2
     Height = 425
     Caption = 'pnl1'
     TabOrder = 0
-    object grp1: TGroupBox
-      Left = 80
-      Top = 96
-      Width = 185
-      Height = 105
-      Caption = 'grp1'
-      TabOrder = 0
-    end
   end
 end

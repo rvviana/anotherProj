@@ -9,11 +9,11 @@ uses
 type
   TForm2 = class(TForm)
     pnl1: TPanel;
-    grp1: TGroupBox;
   private
     { Private declarations }
   public
     { Public declarations }
+    function teste : boolean;
   end;
 
 var
@@ -22,5 +22,10 @@ var
 implementation
 
 {$R *.dfm}
+
+function Tform2.teste:Boolean;
+begin
+ result := true;
+end;
 
 end.

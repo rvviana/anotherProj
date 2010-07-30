@@ -13,15 +13,6 @@ object Form1: TForm1
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
-  object lbl1: TLabel
-    Left = 312
-    Top = 280
-    Width = 480
-    Height = 13
-    Caption = 
-      'TEEEEEEEEEEEEEEEESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSTTTTTTTTTTTTTT' +
-      'TTEEEEEEEEEEEEEE'
-  end
   object lbledt1: TLabeledEdit
     Left = 248
     Top = 40
@@ -89,22 +80,5 @@ object Form1: TForm1
     Lines.Strings = (
       'mmo1')
     TabOrder = 7
-  end
-  object rb1: TRadioButton
-    Left = 512
-    Top = 200
-    Width = 113
-    Height = 17
-    Caption = 'rb1'
-    TabOrder = 8
-  end
-  object cbb1: TComboBox
-    Left = 712
-    Top = 208
-    Width = 145
-    Height = 21
-    ItemHeight = 13
-    TabOrder = 9
-    Text = 'cbb1'
   end
 end
