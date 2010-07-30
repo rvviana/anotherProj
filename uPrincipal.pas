@@ -16,6 +16,7 @@ type
     edt2: TEdit;
     edt3: TEdit;
     mmo1: TMemo;
+    grp1: TGroupBox;
     procedure btn1Click(Sender: TObject);
   private
     { Private declarations }

@@ -81,4 +81,12 @@ object Form1: TForm1
       'mmo1')
     TabOrder = 7
   end
+  object grp1: TGroupBox
+    Left = 424
+    Top = 280
+    Width = 185
+    Height = 105
+    Caption = 'grp1'
+    TabOrder = 8
+  end
 end
