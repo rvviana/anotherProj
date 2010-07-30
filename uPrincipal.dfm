@@ -82,8 +82,8 @@ object Form1: TForm1
     TabOrder = 7
   end
   object grp1: TGroupBox
-    Left = 424
-    Top = 280
+    Left = 96
+    Top = 256
     Width = 185
     Height = 105
     Caption = 'grp1'
