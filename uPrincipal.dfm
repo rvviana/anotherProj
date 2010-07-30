@@ -14,8 +14,8 @@ object Form1: TForm1
   PixelsPerInch = 96
   TextHeight = 13
   object lbledt1: TLabeledEdit
-    Left = 248
-    Top = 40
+    Left = 80
+    Top = 32
     Width = 121
     Height = 21
     EditLabel.Width = 32
@@ -24,8 +24,8 @@ object Form1: TForm1
     TabOrder = 0
   end
   object btn1: TButton
-    Left = 248
-    Top = 80
+    Left = 80
+    Top = 72
     Width = 75
     Height = 25
     Caption = 'btn1'
@@ -33,12 +33,19 @@ object Form1: TForm1
     OnClick = btn1Click
   end
   object mmo1: TMemo
-    Left = 400
-    Top = 82
+    Left = 80
+    Top = 114
     Width = 185
     Height = 89
     Lines.Strings = (
       'mmo1')
     TabOrder = 2
+  end
+  object strngrd1: TStringGrid
+    Left = 304
+    Top = 32
+    Width = 345
+    Height = 171
+    TabOrder = 3
   end
 end

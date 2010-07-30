@@ -4,13 +4,14 @@ interface
 
 uses
   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
-  Dialogs, StdCtrls, ExtCtrls, Menus;
+  Dialogs, StdCtrls, ExtCtrls, Menus, Grids;
 
 type
   TForm1 = class(TForm)
     lbledt1: TLabeledEdit;
     btn1: TButton;
     mmo1: TMemo;
+    strngrd1: TStringGrid;
     procedure btn1Click(Sender: TObject);
   private
     { Private declarations }
