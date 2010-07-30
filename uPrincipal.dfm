@@ -87,6 +87,7 @@ object Form1: TForm1
     Width = 185
     Height = 105
     Caption = 'grp1'
+  end
   object scrlbr1: TScrollBar
     Left = 202
     Top = 392
