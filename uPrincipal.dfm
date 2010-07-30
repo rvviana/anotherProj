@@ -2,7 +2,7 @@ object Form1: TForm1
   Left = 0
   Top = 0
   Caption = 'Form1'
-  ClientHeight = 434
+  ClientHeight = 333
   ClientWidth = 888
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
@@ -80,20 +80,5 @@ object Form1: TForm1
     Lines.Strings = (
       'mmo1')
     TabOrder = 7
-  end
-  object grp1: TGroupBox
-    Left = 96
-    Top = 256
-    Width = 185
-    Height = 105
-    Caption = 'grp1'
-  end
-  object scrlbr1: TScrollBar
-    Left = 202
-    Top = 392
-    Width = 519
-    Height = 17
-    PageSize = 0
-    TabOrder = 8
   end
 end
