@@ -81,12 +81,21 @@ object Form1: TForm1
       'mmo1')
     TabOrder = 7
   end
+<<<<<<< HEAD:uPrincipal.dfm
   object grp1: TGroupBox
     Left = 96
     Top = 256
     Width = 185
     Height = 105
     Caption = 'grp1'
+=======
+  object scrlbr1: TScrollBar
+    Left = 202
+    Top = 392
+    Width = 519
+    Height = 17
+    PageSize = 0
+>>>>>>> add scrollbar:uPrincipal.dfm
     TabOrder = 8
   end
 end
