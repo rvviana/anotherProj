@@ -2,9 +2,6 @@ inicio{
 
 meio
 
-<<<<<<< HEAD:docs/uTeste.txt
-=======
-
 adicionando functions
 
 
@@ -13,5 +10,4 @@ mais
 mais
 
 
->>>>>>> master:docs/uTeste.txt
 fim}
